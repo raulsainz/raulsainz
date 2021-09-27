@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raulsainz
-- 🤓 I have extensive and comprehensive background and experience as IT department Manager and some software developmnent (PHP, Javascript, C# , HTML, XML)
+- 🤓 I have extensive and comprehensive background and experience as IT department Manager and software developmnent (PHP, Javascript, C# , HTML, XML)
 - 👀 I’m interested in Machine Learning, Data Visualization and Automation (Python, Tableau)
 - 🌱 I’m currently studying MSc Data Analytics 
 
